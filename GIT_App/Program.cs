@@ -16,6 +16,7 @@ namespace GIT_App
         {
             Person oPerson = new Person();
             //Hello World! (1)
+            //Create GitHub Account (M-Mahjoub)
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
