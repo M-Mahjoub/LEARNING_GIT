@@ -18,6 +18,7 @@ namespace GIT_App
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //Bye Bye!
         }
     }
 }
