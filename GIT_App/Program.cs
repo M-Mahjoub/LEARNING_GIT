@@ -14,6 +14,7 @@ namespace GIT_App
         [STAThread]
         static void Main()
         {
+            //Hello World! (1)
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
